@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reflect <meta name="color-scheme"> override in CSS per modern-web-guidance */
+:root {
+  color-scheme: light dark;
+}
+
+:root:has(> head > meta[name="color-scheme"][content="dark"]) {
+  color-scheme: dark;
+}
+
+:root:has(> head > meta[name="color-scheme"][content="light"]) {
+  color-scheme: light;
+}
+
+body {
+  background-color: light-dark(#f1f5f9, #090d16);
+  color: light-dark(#0f172a, #f1f5f9);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+/* Native <dialog> light-dismiss backdrop per modern-web-guidance */
+dialog::backdrop {
+  background-color: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(3px);
+}
+
+/* Form validation after interaction (:user-invalid / :user-valid) per modern-web-guidance */
+.rules-list {
+  color: light-dark(#64748b, #94a3b8);
+  margin-bottom: 0.375rem;
+}
+
+input:user-invalid,
+textarea:user-invalid,
+input.user-invalid-fallback,
+textarea.user-invalid-fallback {
+  border-color: #ef4444 !important;
+  background-color: rgba(239, 68, 68, 0.06) !important;
+}
+
+.field:has(input:user-invalid) .rules-list,
+.field:has(textarea:user-invalid) .rules-list,
+.field:has(input.user-invalid-fallback) .rules-list,
+.field:has(textarea.user-invalid-fallback) .rules-list {
+  color: #dc2626;
+  font-weight: 600;
+}
+
+input:user-valid,
+textarea:user-valid,
+input.user-valid-fallback,
+textarea.user-valid-fallback {
+  border-color: #10b981;
+}
+
+/* Leaflet map container & clean SmartRoad-style popup card */
+.leaflet-container {
+  background: light-dark(#e2e8f0, #0f172a) !important;
+  font-family: inherit !important;
+}
+
+.leaflet-popup-content-wrapper {
+  background: light-dark(#ffffff, #0f172a) !important;
+  color: light-dark(#0f172a, #f8fafc) !important;
+  border: 1px solid light-dark(#e2e8f0, #334155) !important;
+  border-radius: 0.875rem !important;
+  box-shadow: 0 20px 30px -8px rgba(15, 23, 42, 0.22) !important;
+  padding: 2px !important;
+}
+
+.leaflet-popup-tip {
+  background: light-dark(#ffffff, #0f172a) !important;
+}
+
+.civic-marker-pin {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  border: 2.5px solid #ffffff;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.35);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.civic-marker-pin:hover {
+  transform: scale(1.14);
+}

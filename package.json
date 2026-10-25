@@ -1,0 +1,35 @@
+{
+  "name": "civiclens",
+  "private": true,
+  "version": "1.0.0",
+  "description": "CivicLens — Community Problems to Action: AI-powered civic issue reporting platform",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "npx tsx scripts/verify-mvp.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.29.1",
+    "@supabase/supabase-js": "^2.49.1",
+    "dotenv": "^16.4.7",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.475.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.16",
+    "@types/node": "^22.13.4",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.2",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "~5.7.2",
+    "vite": "^6.1.0"
+  }
+}

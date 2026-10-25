@@ -1,0 +1,1193 @@
+{
+  "reports": [
+    {
+      "id": "sample-456",
+      "title": "Deep Asphalt Pothole in Left MTC Bus Lane on Anna Salai near Teynampet Signal",
+      "description": "Large surface pothole with crumbled bitumen edges in the northbound bus and two-wheeler lane on Anna Salai approaching the Eldams Road / Teynampet signal, forcing two-wheelers and MTC buses to swerve.",
+      "raw_complaint": "There is a deep pothole right in the left lane on Anna Salai just before the Teynampet signal. Two-wheelers and MTC buses are swerving suddenly around it and loose gravel is scattered across the road.",
+      "category": "Road Damage",
+      "severity": "High",
+      "evidence_summary": "Visible asphalt cavity in an active arterial bus and two-wheeler lane with loose aggregate along the rim. High severity reflects immediate swerving risk; subsurface utility cause requires field inspection.",
+      "recommended_action": "Dispatch Zone 9 Bus Route Roads (BRR) cold-mix patching crew and place reflective cones ahead of the Teynampet signal approach.",
+      "recommended_authority": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+      "confidence": 0.94,
+      "location": {
+        "lat": 13.0405,
+        "lng": 80.2503,
+        "address": "Anna Salai & Eldams Rd Signal, Teynampet, Chennai",
+        "neighborhood": "Teynampet (Zone 9)"
+      },
+      "image_data_url": "./photos/pothole-1.jpg",
+      "gallery_photos": [
+        "./photos/pothole-1.jpg",
+        "./photos/pothole-2.jpg",
+        "./photos/pothole-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "In Progress",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-21T09:15:00.000Z",
+          "note": "Ticket raised for Teynampet (Zone 9).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-24T04:15:00.000Z",
+          "note": "Inspecting road foundation; cold-mix patching crew scheduled for night shift.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-21T09:15:00.000Z",
+      "updated_at": "2026-10-24T04:15:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-bus-route-roads",
+        "authorityName": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+        "verified": true,
+        "contactMethod": "Namma Chennai App / GCC 1913 Civic Helpline",
+        "whyRecommended": "Matched \"Road Damage\" within Central Chennai (0.0 km from Central Chennai center). GCC Bus Route Roads (BRR) and Zonal Engineering divisions manage pothole patching, bitumen resurfacing, and damaged carriageways across Chennai city wards."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-457",
+      "title": "Overflowing Compactor Bin & Plastic Litter Near Pondy Bazaar Pedestrian Plaza",
+      "description": "Street-side solid waste compactor bin on Sir Thyagaraya Road (Pondy Bazaar, T. Nagar) is overflowing onto the Smart City pedestrian walkway with packaging waste and food cartons.",
+      "raw_complaint": "The garbage compactor bin on Sir Thyagaraya Road in Pondy Bazaar T. Nagar has been overflowing since yesterday evening. Bags and plastic cartons are blocking half the footpath.",
+      "category": "Waste",
+      "severity": "Medium",
+      "evidence_summary": "Accumulated municipal solid waste spilling from a roadside bin onto the paved pedestrian plaza. No hazardous or biomedical waste is visible.",
+      "recommended_action": "Route to GCC Zone 10 Solid Waste Management / Urbaser Sumeet conservancy supervisor for immediate compactor clearance.",
+      "recommended_authority": "Greater Chennai Corporation (GCC) — Solid Waste Management (SWM)",
+      "confidence": 0.92,
+      "location": {
+        "lat": 13.0418,
+        "lng": 80.2341,
+        "address": "Sir Thyagaraya Rd, Pondy Bazaar, T. Nagar, Chennai",
+        "neighborhood": "T. Nagar (Zone 10)"
+      },
+      "image_data_url": "./photos/waste-1.jpg",
+      "gallery_photos": [
+        "./photos/waste-1.jpg",
+        "./photos/waste-2.jpg",
+        "./photos/waste-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-23T14:20:00.000Z",
+          "note": "Logged with Zone 10 SWM conservancy desk for morning compactor round.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-23T14:20:00.000Z",
+      "updated_at": "2026-10-23T14:20:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-solid-waste-management",
+        "authorityName": "Greater Chennai Corporation (GCC) — Solid Waste Management (SWM)",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/department/solid-waste-management/",
+        "verified": true,
+        "contactMethod": "Namma Chennai App / 1913 Helpline / Urbaser Sumeet Zonal Desk",
+        "whyRecommended": "Matched \"Waste\" within Central Chennai (1.8 km from Central Chennai center). GCC Solid Waste Management oversees compactor bin clearance, street sweeping, and illegal garbage dumping across all 15 Chennai zones."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-458",
+      "title": "Four Consecutive LED Streetlight Poles Dark on Luz Church Road (Mylapore)",
+      "description": "A stretch of four streetlights along Luz Church Road near Nageswara Rao Park in Mylapore remains unlit after 6:30 PM, leaving the pedestrian crossing and bus stop in darkness.",
+      "raw_complaint": "Four streetlights in a row on Luz Church Road near Nageswara Rao Park gate in Mylapore are completely off at night. Senior citizens walking from the park can barely see the curb.",
+      "category": "Street Lighting",
+      "severity": "High",
+      "evidence_summary": "Multi-pole darkness along an urban collector street suggests a local feeder pillar trip or timer relay fault rather than individual bulb failure.",
+      "recommended_action": "Inspect feeder pillar along Luz Church Road and restore phase supply via GCC Electrical Department / TANGEDCO.",
+      "recommended_authority": "GCC Electrical Department & TANGEDCO — Streetlight Maintenance",
+      "confidence": 0.91,
+      "location": {
+        "lat": 13.0329,
+        "lng": 80.2683,
+        "address": "Luz Church Rd, Near Nageswara Rao Park, Mylapore, Chennai",
+        "neighborhood": "Mylapore (Zone 9)"
+      },
+      "image_data_url": "./photos/lighting-1.jpg",
+      "gallery_photos": [
+        "./photos/lighting-1.jpg",
+        "./photos/lighting-2.jpg",
+        "./photos/lighting-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Under Review",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T18:40:00.000Z",
+          "note": "Ticket raised for Mylapore (Zone 9).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Under Review",
+          "timestamp": "2026-10-23T11:10:00.000Z",
+          "note": "Assigned to Zone 9 electrical AE for feeder box inspection.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T18:40:00.000Z",
+      "updated_at": "2026-10-23T11:10:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-electrical-streetlights",
+        "authorityName": "GCC Electrical Department & TANGEDCO — Streetlight Maintenance",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/department/electrical/",
+        "verified": true,
+        "contactMethod": "GCC 1913 Helpline / TANGEDCO Minnagam (94987 94987)",
+        "whyRecommended": "Matched \"Street Lighting\" within Central Chennai (2.1 km from Central Chennai center). GCC Electrical Department and TANGEDCO maintain LED street luminaires, high-mast lamps, and underground streetlight feeder cables."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-459",
+      "title": "Broken Storm-Water Drain Slab & Blocked Wheelchair Ramp on LB Road (Adyar)",
+      "description": "Precast concrete storm-water drain cover slab has caved in across the pedestrian footpath ramp on Lattice Bridge (LB) Road near Adyar Signal, creating an open drop hazard.",
+      "raw_complaint": "A concrete slab over the storm drain on the footpath at LB Road near Adyar depot signal is broken and sunken, blocking wheelchair and stroller access completely.",
+      "category": "Accessibility",
+      "severity": "Critical",
+      "evidence_summary": "Fractured concrete footpath slab exposing a recessed drain channel directly in the pedestrian path of travel. Critical severity due to fall hazard and barrier to mobility-impaired residents.",
+      "recommended_action": "Barricade the open footpath cavity immediately and install a reinforced precast RCC drain cover slab via GCC Zone 13 NMT Cell.",
+      "recommended_authority": "GCC Non-Motorized Transport (NMT) & Footpath Accessibility Cell",
+      "confidence": 0.95,
+      "location": {
+        "lat": 12.9982,
+        "lng": 80.2568,
+        "address": "Lattice Bridge (LB) Road, Near Adyar Signal, Chennai",
+        "neighborhood": "Adyar (Zone 13)"
+      },
+      "image_data_url": "./photos/sidewalk-1.jpg",
+      "gallery_photos": [
+        "./photos/sidewalk-1.jpg",
+        "./photos/sidewalk-2.jpg",
+        "./photos/sidewalk-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "In Progress",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-20T08:00:00.000Z",
+          "note": "Ticket raised for Adyar (Zone 13).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-23T16:30:00.000Z",
+          "note": "Safety barricades placed; replacement RCC slab casting queued at Zone 13 yard.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-20T08:00:00.000Z",
+      "updated_at": "2026-10-23T16:30:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-footpath-nmt-cell",
+        "authorityName": "GCC Non-Motorized Transport (NMT) & Footpath Accessibility Cell",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+        "verified": true,
+        "contactMethod": "GCC 1913 Helpline / Namma Chennai App",
+        "whyRecommended": "Matched \"Accessibility\" within Central Chennai (4.8 km from Central Chennai center). GCC Zonal Enforcement & NMT Cell handle obstructed pedestrian footpaths, damaged wheelchair curb ramps, and broken storm-water drain slabs."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-460",
+      "title": "Cratered Asphalt & Exposed Aggregate on Kathipara Flyover Service Road (Guindy)",
+      "description": "Repeated heavy bus braking at the Kathipara urban square service lane turning toward Guindy Industrial Estate has peeled off the top wearing course, leaving a 1.2m wide pothole.",
+      "raw_complaint": "Huge pothole on the Kathipara service road curve heading toward Guindy railway station. Bikes skidded on the loose stones this morning.",
+      "category": "Road Damage",
+      "severity": "Critical",
+      "evidence_summary": "Severe wearing-course delamination and loose stone aggregate on a high-speed turning curve. Critical priority due to two-wheeler skidding risk.",
+      "recommended_action": "Sweep loose aggregate immediately and apply hot-mix bituminous macadam patch via GCC BRR / Highways wing.",
+      "recommended_authority": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+      "confidence": 0.93,
+      "location": {
+        "lat": 13.0067,
+        "lng": 80.2045,
+        "address": "Kathipara Urban Square Service Rd, Guindy, Chennai",
+        "neighborhood": "Guindy (Zone 13)"
+      },
+      "image_data_url": "./photos/pothole-2.jpg",
+      "gallery_photos": [
+        "./photos/pothole-2.jpg",
+        "./photos/pothole-3.jpg",
+        "./photos/pothole-1.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-24T05:30:00.000Z",
+          "note": "Ticket raised by commuter; flagged Critical for Guindy zonal engineer.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-24T05:30:00.000Z",
+      "updated_at": "2026-10-24T05:30:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-bus-route-roads",
+        "authorityName": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+        "verified": true,
+        "contactMethod": "Namma Chennai App / GCC 1913 Civic Helpline",
+        "whyRecommended": "Matched \"Road Damage\" within Central Chennai (6.2 km from Central Chennai center). GCC Bus Route Roads (BRR) and Zonal Engineering divisions manage pothole patching, bitumen resurfacing, and damaged carriageways across Chennai city wards."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-461",
+      "title": "Uncollected Construction & Commercial Waste Pile on Velachery Main Road",
+      "description": "Mixed commercial packaging, plastic bags, and broken masonry rubble dumped beside the bus shelter on Velachery Main Road near Vijayanagar junction.",
+      "raw_complaint": "Garbage and construction sacks have been dumped next to the bus shelter on Velachery Main Road near Vijayanagar bus terminus, causing foul smell and narrowing the lane.",
+      "category": "Waste",
+      "severity": "Medium",
+      "evidence_summary": "Roadside waste accumulation encroaching on bus bay shoulder. Verified cleared during morning conservancy drive.",
+      "recommended_action": "Clear waste pile with mini-tipper lorry and sanitize bus bay curb with bleaching powder.",
+      "recommended_authority": "Greater Chennai Corporation (GCC) — Solid Waste Management (SWM)",
+      "confidence": 0.9,
+      "location": {
+        "lat": 12.9791,
+        "lng": 80.2184,
+        "address": "Velachery Main Rd, Near Vijayanagar Bus Stand, Chennai",
+        "neighborhood": "Velachery (Zone 13)"
+      },
+      "image_data_url": "./photos/waste-2.jpg",
+      "gallery_photos": [
+        "./photos/waste-2.jpg",
+        "./photos/waste-3.jpg",
+        "./photos/waste-1.jpg"
+      ],
+      "image_provided": true,
+      "status": "Resolved",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-19T11:00:00.000Z",
+          "note": "Ticket raised for Velachery (Zone 13).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-22T17:15:00.000Z",
+          "note": "Cleared by Urbaser Sumeet Zone 13 night conservancy team and verified.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-19T11:00:00.000Z",
+      "updated_at": "2026-10-22T17:15:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-solid-waste-management",
+        "authorityName": "Greater Chennai Corporation (GCC) — Solid Waste Management (SWM)",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/department/solid-waste-management/",
+        "verified": true,
+        "contactMethod": "Namma Chennai App / 1913 Helpline / Urbaser Sumeet Zonal Desk",
+        "whyRecommended": "Matched \"Waste\" within Central Chennai (7.7 km from Central Chennai center). GCC Solid Waste Management oversees compactor bin clearance, street sweeping, and illegal garbage dumping across all 15 Chennai zones."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-462",
+      "title": "Sunken Manhole Rim & Cracked Pavement Outside Egmore Railway Station",
+      "description": "Recessed circular utility manhole cover and fractured surrounding asphalt on Gandhi Irwin Road outside Chennai Egmore Railway Station main taxi exit.",
+      "raw_complaint": "The road surface around the drainage manhole right outside Egmore Railway Station main exit on Gandhi Irwin Road has sunk by almost 4 inches, jolting autos and taxis.",
+      "category": "Road Damage",
+      "severity": "High",
+      "evidence_summary": "Differential settlement around utility chamber collar in a high-traffic station exit lane. Requires collar raising and asphalt leveling.",
+      "recommended_action": "Coordinate between GCC Zone 5 Roads and CMWSSB to raise manhole frame flush with carriageway.",
+      "recommended_authority": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+      "confidence": 0.91,
+      "location": {
+        "lat": 13.0732,
+        "lng": 80.2609,
+        "address": "Gandhi Irwin Rd, Egmore Railway Station Exit, Chennai",
+        "neighborhood": "Egmore (Zone 5)"
+      },
+      "image_data_url": "./photos/pothole-3.jpg",
+      "gallery_photos": [
+        "./photos/pothole-3.jpg",
+        "./photos/pothole-1.jpg",
+        "./photos/pothole-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "Under Review",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T07:45:00.000Z",
+          "note": "Ticket raised for Egmore (Zone 5).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Under Review",
+          "timestamp": "2026-10-23T12:00:00.000Z",
+          "note": "Joint inspection requested with CMWSSB depot engineer.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T07:45:00.000Z",
+      "updated_at": "2026-10-23T12:00:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "gcc-bus-route-roads",
+        "authorityName": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+        "jurisdiction": "Greater Chennai Corporation, TN",
+        "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+        "verified": true,
+        "contactMethod": "Namma Chennai App / GCC 1913 Civic Helpline",
+        "whyRecommended": "Matched \"Road Damage\" within Central Chennai (3.8 km from Central Chennai center). GCC Bus Route Roads (BRR) and Zonal Engineering divisions manage pothole patching, bitumen resurfacing, and damaged carriageways across Chennai city wards."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-501",
+      "title": "Deep Pothole & Crumbled Edge on GST Road Service Lane Outside SRM Arch Gate",
+      "description": "Large water-worn pothole on the NH-32 (GST Road) service lane directly outside SRM Arch Gate near Potheri Railway Station foot-overbridge, causing campus buses and bikes to swerve.",
+      "raw_complaint": "There is a deep pothole with broken bitumen edges on the GST Road service lane right in front of SRM Arch Gate at Potheri. Students on two-wheelers and college buses turning in have to swerve sharply.",
+      "category": "Road Damage",
+      "severity": "High",
+      "evidence_summary": "High-exposure carriageway defect at a major university transit junction. Swerving conflict between student two-wheelers and heavy buses warrants High severity.",
+      "recommended_action": "Log with Maraimalai Nagar Municipality & NHAI GST Road maintenance unit for bituminous patching outside SRM Arch Gate.",
+      "recommended_authority": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "confidence": 0.95,
+      "location": {
+        "lat": 12.823,
+        "lng": 80.0444,
+        "address": "SRM Arch Gate & GST Road Service Lane, Potheri, Kattankulathur",
+        "neighborhood": "SRM Kattankulathur / Potheri"
+      },
+      "image_data_url": "./photos/pothole-1.jpg",
+      "gallery_photos": [
+        "./photos/pothole-1.jpg",
+        "./photos/pothole-3.jpg",
+        "./photos/pothole-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "In Progress",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T10:15:00.000Z",
+          "note": "Ticket raised for SRM Kattankulathur / Potheri.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-24T03:40:00.000Z",
+          "note": "Inspecting road edge near Potheri FOB; patching material mobilized.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T10:15:00.000Z",
+      "updated_at": "2026-10-24T03:40:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "srm-maraimalai-nagar-civic",
+        "authorityName": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+        "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+        "verified": true,
+        "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+        "whyRecommended": "Matched \"Road Damage\" within SRM Chennai (KTR) (0.0 km from SRM Chennai (KTR) center). Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-502",
+      "title": "Overflowing Waste Bin & Food Packaging Litter Near Potheri Railway Station",
+      "description": "Public waste receptacle along the student food-street walkway between Potheri suburban station and SRM Main Campus is overflowing with disposable containers.",
+      "raw_complaint": "The waste bin near Potheri railway station entrance opposite SRM gate is completely overflowing with plastic food boxes and wrappers onto the footpath.",
+      "category": "Waste",
+      "severity": "Medium",
+      "evidence_summary": "Visible overflow of packaging waste along a high-footfall suburban rail and student walkway.",
+      "recommended_action": "Schedule daily evening compactor pickup via Maraimalai Nagar Municipality sanitation wing.",
+      "recommended_authority": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "confidence": 0.92,
+      "location": {
+        "lat": 12.8214,
+        "lng": 80.0419,
+        "address": "Potheri Railway Station Approach Rd, Kattankulathur",
+        "neighborhood": "Potheri Ward (Maraimalai Nagar)"
+      },
+      "image_data_url": "./photos/waste-1.jpg",
+      "gallery_photos": [
+        "./photos/waste-1.jpg",
+        "./photos/waste-3.jpg",
+        "./photos/waste-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-23T19:00:00.000Z",
+          "note": "Submitted to Maraimalai Nagar municipal sanitary inspector.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-23T19:00:00.000Z",
+      "updated_at": "2026-10-23T19:00:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "srm-maraimalai-nagar-civic",
+        "authorityName": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+        "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+        "verified": true,
+        "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+        "whyRecommended": "Matched \"Waste\" within SRM Chennai (KTR) (0.3 km from SRM Chennai (KTR) center). Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-503",
+      "title": "Displaced Concrete Footpath Slab Blocking Walkway Near SRM Tech Park",
+      "description": "Broken and tilted storm-drain cover slab along the pedestrian walkway between SRM Tech Park and the Hostel Zone forces pedestrians to step into the vehicular lane.",
+      "raw_complaint": "Concrete footpath slab near SRM Tech Park bus bay is cracked and tilted into the drain channel, making it impossible for wheelchair users or walkers at night.",
+      "category": "Accessibility",
+      "severity": "High",
+      "evidence_summary": "Physical obstruction and trip hazard along an active student pedestrian spine.",
+      "recommended_action": "Reset precast drain slab and level paver blocks via Campus Estate & Municipal Civil Maintenance.",
+      "recommended_authority": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "confidence": 0.93,
+      "location": {
+        "lat": 12.8248,
+        "lng": 80.0462,
+        "address": "SRM Tech Park Avenue, Kattankulathur Campus Corridor",
+        "neighborhood": "SRM Kattankulathur"
+      },
+      "image_data_url": "./photos/sidewalk-2.jpg",
+      "gallery_photos": [
+        "./photos/sidewalk-2.jpg",
+        "./photos/sidewalk-1.jpg",
+        "./photos/sidewalk-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Under Review",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T15:30:00.000Z",
+          "note": "Ticket raised for SRM Kattankulathur.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Under Review",
+          "timestamp": "2026-10-23T09:45:00.000Z",
+          "note": "Civil maintenance engineer inspected slab dimensions for replacement.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T15:30:00.000Z",
+      "updated_at": "2026-10-23T09:45:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "srm-maraimalai-nagar-civic",
+        "authorityName": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+        "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+        "verified": true,
+        "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+        "whyRecommended": "Matched \"Accessibility\" within SRM Chennai (KTR) (0.3 km from SRM Chennai (KTR) center). Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-504",
+      "title": "Dark Streetlight Stretch Along Valliammai Junction to Estancia Link Road",
+      "description": "Five consecutive streetlight poles along the link road beside Valliammai Engineering Gate in Kattankulathur are non-functional after sunset.",
+      "raw_complaint": "Streetlights on the link road behind Valliammai gate in Kattankulathur are completely dark after 6:30 PM. Hundreds of students walk here after evening lab hours.",
+      "category": "Street Lighting",
+      "severity": "High",
+      "evidence_summary": "Unlit pedestrian and two-wheeler corridor during evening peak movement hours.",
+      "recommended_action": "Check overhead streetlight fuse box and replace faulty LED drivers via Maraimalai Nagar electrical desk.",
+      "recommended_authority": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "confidence": 0.9,
+      "location": {
+        "lat": 12.8265,
+        "lng": 80.0408,
+        "address": "Valliammai Junction Link Rd, Potheri, Kattankulathur",
+        "neighborhood": "Kattankulathur North"
+      },
+      "image_data_url": "./photos/lighting-2.jpg",
+      "gallery_photos": [
+        "./photos/lighting-2.jpg",
+        "./photos/lighting-1.jpg",
+        "./photos/lighting-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-23T20:15:00.000Z",
+          "note": "Reported by hostel student representative; queued for line inspection.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-23T20:15:00.000Z",
+      "updated_at": "2026-10-23T20:15:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "srm-maraimalai-nagar-civic",
+        "authorityName": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+        "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+        "verified": true,
+        "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+        "whyRecommended": "Matched \"Street Lighting\" within SRM Chennai (KTR) (0.6 km from SRM Chennai (KTR) center). Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-505",
+      "title": "Eroded Road Shoulder & Potholes at Guduvancheri Bus Terminus Entry (GST Road)",
+      "description": "Deep ruts and broken asphalt at the bus bay entry of Guduvancheri Bus Stand one stop north of SRM Kattankulathur on GST Road.",
+      "raw_complaint": "The entrance to Guduvancheri bus stand off GST Road has deep potholes filled with gravel and muddy water, causing buses to lurch violently.",
+      "category": "Road Damage",
+      "severity": "Medium",
+      "evidence_summary": "Bus bay wearing-course erosion caused by high axle loads and poor surface drainage.",
+      "recommended_action": "Compact wet-mix macadam base and lay bituminous surface layer across bus bay entrance.",
+      "recommended_authority": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "confidence": 0.91,
+      "location": {
+        "lat": 12.8438,
+        "lng": 80.0597,
+        "address": "GST Road Bus Bay, Guduvancheri, Chengalpattu District",
+        "neighborhood": "Guduvancheri Corridor"
+      },
+      "image_data_url": "./photos/pothole-2.jpg",
+      "gallery_photos": [
+        "./photos/pothole-2.jpg",
+        "./photos/pothole-1.jpg",
+        "./photos/pothole-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Resolved",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-18T12:00:00.000Z",
+          "note": "Ticket raised for Guduvancheri Corridor.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-21T18:00:00.000Z",
+          "note": "Bus bay resurfaced and compacted by highway maintenance crew.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-18T12:00:00.000Z",
+      "updated_at": "2026-10-21T18:00:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "srm-maraimalai-nagar-civic",
+        "authorityName": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+        "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+        "verified": true,
+        "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+        "whyRecommended": "Matched \"Road Damage\" within SRM Chennai (KTR) (2.8 km from SRM Chennai (KTR) center). Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-601",
+      "title": "Three Consecutive Streetlights Out Outside VIT Vellore Main Gate (Tiruvalam Rd)",
+      "description": "Three pedestrian street-lighting poles along Tiruvalam Road outside VIT Vellore Main Gate 1 toward Katpadi remain unlit after dusk, leaving the student crosswalk in darkness.",
+      "raw_complaint": "Three LED streetlights in a row are completely dark on Tiruvalam Road right outside VIT Vellore Main Gate in Katpadi. Students crossing the road at night are barely visible to oncoming vehicles.",
+      "category": "Street Lighting",
+      "severity": "High",
+      "evidence_summary": "Multiple adjacent fixtures dark simultaneously along a high-density university crosswalk corridor; requires VCMC Zone 1 electrical inspection.",
+      "recommended_action": "Report multi-pole outage on Tiruvalam Road (Katpadi Zone) to Vellore City Municipal Corporation (VCMC) electrical wing.",
+      "recommended_authority": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+      "confidence": 0.92,
+      "location": {
+        "lat": 12.9692,
+        "lng": 79.1559,
+        "address": "Tiruvalam Road (Outside VIT Main Gate 1), Katpadi, Vellore",
+        "neighborhood": "Katpadi / VIT Vellore (Zone 1)"
+      },
+      "image_data_url": "./photos/lighting-1.jpg",
+      "gallery_photos": [
+        "./photos/lighting-1.jpg",
+        "./photos/lighting-3.jpg",
+        "./photos/lighting-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "Under Review",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-23T21:10:00.000Z",
+          "note": "Ticket raised for Katpadi / VIT Vellore (Zone 1).",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Under Review",
+          "timestamp": "2026-10-24T03:00:00.000Z",
+          "note": "Verified Katpadi coordinates and assigned to VCMC Zone 1 electrical line team.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-23T21:10:00.000Z",
+      "updated_at": "2026-10-24T03:00:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "vit-vellore-municipal-corp",
+        "authorityName": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+        "jurisdiction": "Vellore City Municipal Corporation (VCMC) & VIT Katpadi Corridor",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/vellore/",
+        "verified": true,
+        "contactMethod": "Vellore Corporation Grievance Portal / Toll-Free 1800-425-1600",
+        "whyRecommended": "Matched \"Street Lighting\" within VIT Vellore (0.0 km from VIT Vellore center). Vellore City Municipal Corporation (Zone 1 Katpadi) manages civic roads, street lighting, sanitation, and drainage along Tiruvalam Road and the VIT Vellore perimeter."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-602",
+      "title": "Deep Pothole & Cracked Bitumen on Katpadi Railway Station Approach Road",
+      "description": "Severe asphalt cavity in the auto-rickshaw and bus approach lane leading to Katpadi Junction Railway Station Platform 1 entrance in Vellore.",
+      "raw_complaint": "Large pothole right on the approach curve to Katpadi Railway Station entrance. Autos and cabs dropping students have to swerve into oncoming traffic.",
+      "category": "Road Damage",
+      "severity": "High",
+      "evidence_summary": "Active carriageway pothole on a primary intermodal transit feeder road in Katpadi.",
+      "recommended_action": "Patch cavity with hot-mix bitumen via Vellore City Municipal Corporation Zone 1 engineering wing.",
+      "recommended_authority": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+      "confidence": 0.94,
+      "location": {
+        "lat": 12.9718,
+        "lng": 79.1384,
+        "address": "Katpadi Junction Railway Station Approach Rd, Vellore",
+        "neighborhood": "Katpadi Railway Colony"
+      },
+      "image_data_url": "./photos/pothole-3.jpg",
+      "gallery_photos": [
+        "./photos/pothole-3.jpg",
+        "./photos/pothole-2.jpg",
+        "./photos/pothole-1.jpg"
+      ],
+      "image_provided": true,
+      "status": "In Progress",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-21T16:40:00.000Z",
+          "note": "Ticket raised for Katpadi Railway Colony.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-23T17:20:00.000Z",
+          "note": "Road cut marked and cold-mix patching scheduled by VCMC Zone 1.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-21T16:40:00.000Z",
+      "updated_at": "2026-10-23T17:20:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "vit-vellore-municipal-corp",
+        "authorityName": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+        "jurisdiction": "Vellore City Municipal Corporation (VCMC) & VIT Katpadi Corridor",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/vellore/",
+        "verified": true,
+        "contactMethod": "Vellore Corporation Grievance Portal / Toll-Free 1800-425-1600",
+        "whyRecommended": "Matched \"Road Damage\" within VIT Vellore (1.9 km from VIT Vellore center). Vellore City Municipal Corporation (Zone 1 Katpadi) manages civic roads, street lighting, sanitation, and drainage along Tiruvalam Road and the VIT Vellore perimeter."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-603",
+      "title": "Uncollected Roadside Waste Near VIT Gate 3 Commercial Lane (Vaibhav Nagar)",
+      "description": "Overflowing secondary waste collection point near the student eateries outside VIT Gate 3 in Vaibhav Nagar, Katpadi.",
+      "raw_complaint": "Garbage bags and food cartons are piled up near the corner bin outside VIT Gate 3 toward Vaibhav Nagar, attracting stray cattle onto the road.",
+      "category": "Waste",
+      "severity": "Medium",
+      "evidence_summary": "Overflowing municipal bin along a residential and student dining street.",
+      "recommended_action": "Dispatch VCMC Katpadi ward battery-operated micro-compactor vehicle for clearance.",
+      "recommended_authority": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+      "confidence": 0.9,
+      "location": {
+        "lat": 12.9726,
+        "lng": 79.1612,
+        "address": "Vaibhav Nagar Link Rd, Near VIT Gate 3, Katpadi, Vellore",
+        "neighborhood": "Vaibhav Nagar / Katpadi"
+      },
+      "image_data_url": "./photos/waste-3.jpg",
+      "gallery_photos": [
+        "./photos/waste-3.jpg",
+        "./photos/waste-1.jpg",
+        "./photos/waste-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-24T02:15:00.000Z",
+          "note": "Logged in VCMC Katpadi sanitation queue.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-24T02:15:00.000Z",
+      "updated_at": "2026-10-24T02:15:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "vit-vellore-municipal-corp",
+        "authorityName": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+        "jurisdiction": "Vellore City Municipal Corporation (VCMC) & VIT Katpadi Corridor",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/vellore/",
+        "verified": true,
+        "contactMethod": "Vellore Corporation Grievance Portal / Toll-Free 1800-425-1600",
+        "whyRecommended": "Matched \"Waste\" within VIT Vellore (0.7 km from VIT Vellore center). Vellore City Municipal Corporation (Zone 1 Katpadi) manages civic roads, street lighting, sanitation, and drainage along Tiruvalam Road and the VIT Vellore perimeter."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-604",
+      "title": "Damaged Pedestrian Curb Ramp & Uneven Pavers at Chittoor Bus Stand (Katpadi)",
+      "description": "Cracked concrete curb ramp and dislodged interlocking footpath tiles at the Chittoor Bus Stand pedestrian crossing on Katpadi–Chittoor Road.",
+      "raw_complaint": "The pedestrian footpath ramp at Chittoor Bus Stand junction in Katpadi has broken concrete edges and missing tiles, making it unsafe for elderly passengers.",
+      "category": "Accessibility",
+      "severity": "Medium",
+      "evidence_summary": "Uneven pedestrian transition at a major bus boarding intersection.",
+      "recommended_action": "Relay interlocking paver blocks and re-grade concrete curb ramp at bus stand crosswalk.",
+      "recommended_authority": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+      "confidence": 0.91,
+      "location": {
+        "lat": 12.9654,
+        "lng": 79.1462,
+        "address": "Chittoor Bus Stand Junction, Katpadi Rd, Vellore",
+        "neighborhood": "Katpadi Central"
+      },
+      "image_data_url": "./photos/sidewalk-1.jpg",
+      "gallery_photos": [
+        "./photos/sidewalk-1.jpg",
+        "./photos/sidewalk-3.jpg",
+        "./photos/sidewalk-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "Resolved",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-19T09:00:00.000Z",
+          "note": "Ticket raised for Katpadi Central.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-22T14:50:00.000Z",
+          "note": "Curb ramp re-concreted and pavers leveled by VCMC civil contractor.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-19T09:00:00.000Z",
+      "updated_at": "2026-10-22T14:50:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "vit-vellore-municipal-corp",
+        "authorityName": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+        "jurisdiction": "Vellore City Municipal Corporation (VCMC) & VIT Katpadi Corridor",
+        "officialUrl": "https://www.tnurbantree.tn.gov.in/vellore/",
+        "verified": true,
+        "contactMethod": "Vellore Corporation Grievance Portal / Toll-Free 1800-425-1600",
+        "whyRecommended": "Matched \"Accessibility\" within VIT Vellore (1.1 km from VIT Vellore center). Vellore City Municipal Corporation (Zone 1 Katpadi) manages civic roads, street lighting, sanitation, and drainage along Tiruvalam Road and the VIT Vellore perimeter."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-701",
+      "title": "Obstructed Pedestrian Ramp & Displaced Drain Slab Near IIT Palakkad Nila Campus",
+      "description": "Wheelchair and pedestrian footpath ramp near the IIT Palakkad Nila Campus junction in Kanjikode is blocked by displaced concrete culvert slabs and storm debris.",
+      "raw_complaint": "Pedestrian and wheelchair access on the walkway near the IIT Palakkad Nila campus entrance road in Kanjikode is obstructed by displaced concrete drain slabs, forcing walkers onto the main road.",
+      "category": "Accessibility",
+      "severity": "Critical",
+      "evidence_summary": "Direct physical barrier on a pedestrian ramp forcing foot traffic into the active roadway. Classified as Critical due to mobility obstruction and traffic conflict.",
+      "recommended_action": "Report footpath obstruction and displaced slab via Kerala LSGD K-SMART portal / PWD Roads wing for Kanjikode corridor clearance.",
+      "recommended_authority": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+      "confidence": 0.95,
+      "location": {
+        "lat": 10.805,
+        "lng": 76.7263,
+        "address": "Nila Campus Approach Road, Kanjikode, IIT Palakkad, Kerala",
+        "neighborhood": "Kanjikode / IIT Palakkad"
+      },
+      "image_data_url": "./photos/sidewalk-3.jpg",
+      "gallery_photos": [
+        "./photos/sidewalk-3.jpg",
+        "./photos/sidewalk-1.jpg",
+        "./photos/sidewalk-2.jpg"
+      ],
+      "image_provided": true,
+      "status": "In Progress",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T15:00:00.000Z",
+          "note": "Ticket raised for Kanjikode / IIT Palakkad.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "In Progress",
+          "timestamp": "2026-10-24T04:00:00.000Z",
+          "note": "Culvert slab realignment crew scheduled via Pudussery Grama Panchayat / PWD.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T15:00:00.000Z",
+      "updated_at": "2026-10-24T04:00:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "iit-palakkad-lsgd-kerala",
+        "authorityName": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+        "jurisdiction": "Pudussery / Palakkad LSGD & IIT Palakkad Campus Corridor",
+        "officialUrl": "https://ksmart.lsgkerala.gov.in/",
+        "verified": true,
+        "contactMethod": "K-SMART LSGD Citizen Portal / PWD Kerala Toll-Free 1800-425-7771",
+        "whyRecommended": "Matched \"Accessibility\" within IIT Palakkad (0.0 km from IIT Palakkad center). Kerala LSGD (K-SMART portal) and PWD Roads wing handle civic road maintenance, drainage, and public lighting in the Kanjikode / Walayar / IIT Palakkad corridor."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-702",
+      "title": "Monsoon Eroded Pothole on Sahyadri Campus Link Road Near Walayar NH-544",
+      "description": "Deep water-scoured pothole and broken asphalt edge along the link road connecting NH-544 to IIT Palakkad Sahyadri Campus, hazardous for campus shuttle buses and cyclists.",
+      "raw_complaint": "Heavy rain has washed away the road surface on the Sahyadri Campus link road off NH-544 in Kanjikode, leaving a deep pothole right on the curve.",
+      "category": "Road Damage",
+      "severity": "High",
+      "evidence_summary": "Monsoon surface scouring and edge drop-off on a two-lane campus connector road.",
+      "recommended_action": "Clear side-drain silt and patch carriageway cavity with bituminous macadam via PWD Kerala Roads section.",
+      "recommended_authority": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+      "confidence": 0.93,
+      "location": {
+        "lat": 10.8112,
+        "lng": 76.7315,
+        "address": "Sahyadri Campus Link Rd (Off NH-544), Kanjikode, Palakkad",
+        "neighborhood": "Sahyadri Corridor / Pudussery"
+      },
+      "image_data_url": "./photos/pothole-1.jpg",
+      "gallery_photos": [
+        "./photos/pothole-1.jpg",
+        "./photos/pothole-2.jpg",
+        "./photos/pothole-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Submitted",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-23T17:10:00.000Z",
+          "note": "Logged on K-SMART portal for PWD Palakkad road maintenance.",
+          "actor": "Civic Reporter"
+        }
+      ],
+      "created_at": "2026-10-23T17:10:00.000Z",
+      "updated_at": "2026-10-23T17:10:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "iit-palakkad-lsgd-kerala",
+        "authorityName": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+        "jurisdiction": "Pudussery / Palakkad LSGD & IIT Palakkad Campus Corridor",
+        "officialUrl": "https://ksmart.lsgkerala.gov.in/",
+        "verified": true,
+        "contactMethod": "K-SMART LSGD Citizen Portal / PWD Kerala Toll-Free 1800-425-7771",
+        "whyRecommended": "Matched \"Road Damage\" within IIT Palakkad (0.9 km from IIT Palakkad center). Kerala LSGD (K-SMART portal) and PWD Roads wing handle civic road maintenance, drainage, and public lighting in the Kanjikode / Walayar / IIT Palakkad corridor."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-703",
+      "title": "High-Mast & Streetlight Outage at Kanjikode Town Bus Stand Junction",
+      "description": "Streetlight feeder along the Kanjikode NH-544 service road and bus stand junction is dark after 7 PM, reducing visibility for evening commuters and trucks.",
+      "raw_complaint": "The streetlights at Kanjikode bus stand junction on the NH-544 service road are not working for the past two nights, making the highway underpass crossing very dark.",
+      "category": "Street Lighting",
+      "severity": "High",
+      "evidence_summary": "Dark highway underpass and bus boarding zone with heavy commercial truck traffic.",
+      "recommended_action": "Coordinate with KSEB Kanjikode section and NHAI corridor maintenance to restore underpass lighting.",
+      "recommended_authority": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+      "confidence": 0.91,
+      "location": {
+        "lat": 10.7958,
+        "lng": 76.7421,
+        "address": "Kanjikode Town Bus Stand & NH-544 Underpass, Palakkad, Kerala",
+        "neighborhood": "Kanjikode Town"
+      },
+      "image_data_url": "./photos/lighting-3.jpg",
+      "gallery_photos": [
+        "./photos/lighting-3.jpg",
+        "./photos/lighting-2.jpg",
+        "./photos/lighting-1.jpg"
+      ],
+      "image_provided": true,
+      "status": "Under Review",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-22T20:00:00.000Z",
+          "note": "Ticket raised for Kanjikode Town.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Under Review",
+          "timestamp": "2026-10-23T14:30:00.000Z",
+          "note": "Assigned to electrical wing via K-SMART Pudussery panchayat desk.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-22T20:00:00.000Z",
+      "updated_at": "2026-10-23T14:30:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "iit-palakkad-lsgd-kerala",
+        "authorityName": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+        "jurisdiction": "Pudussery / Palakkad LSGD & IIT Palakkad Campus Corridor",
+        "officialUrl": "https://ksmart.lsgkerala.gov.in/",
+        "verified": true,
+        "contactMethod": "K-SMART LSGD Citizen Portal / PWD Kerala Toll-Free 1800-425-7771",
+        "whyRecommended": "Matched \"Street Lighting\" within IIT Palakkad (2.0 km from IIT Palakkad center). Kerala LSGD (K-SMART portal) and PWD Roads wing handle civic road maintenance, drainage, and public lighting in the Kanjikode / Walayar / IIT Palakkad corridor."
+      },
+      "contact_provided": false
+    },
+    {
+      "id": "sample-704",
+      "title": "Dumped Packaging & Industrial Scrap Along Pudussery Industrial Service Lane",
+      "description": "Uncollected pile of discarded packaging waste and plastic sacks along the Pudussery industrial area service road west of Kanjikode.",
+      "raw_complaint": "Plastic sacks and packaging waste have been dumped along the roadside drain in Pudussery near Kanjikode industrial estate, blocking rainwater flow.",
+      "category": "Waste",
+      "severity": "Medium",
+      "evidence_summary": "Roadside solid waste accumulation obstructing open storm-water drainage channel.",
+      "recommended_action": "Clear waste via Haritha Karma Sena / Pudussery LSGD sanitation squad and clear drain inlet.",
+      "recommended_authority": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+      "confidence": 0.9,
+      "location": {
+        "lat": 10.7995,
+        "lng": 76.718,
+        "address": "Pudussery Industrial Estate Service Rd, Kanjikode, Palakkad",
+        "neighborhood": "Pudussery West"
+      },
+      "image_data_url": "./photos/waste-2.jpg",
+      "gallery_photos": [
+        "./photos/waste-2.jpg",
+        "./photos/waste-1.jpg",
+        "./photos/waste-3.jpg"
+      ],
+      "image_provided": true,
+      "status": "Resolved",
+      "status_history": [
+        {
+          "status": "Submitted",
+          "timestamp": "2026-10-18T10:00:00.000Z",
+          "note": "Ticket raised for Pudussery West.",
+          "actor": "Civic Reporter"
+        },
+        {
+          "status": "Resolved",
+          "timestamp": "2026-10-21T16:15:00.000Z",
+          "note": "Cleared by Pudussery LSGD sanitation team and drain desilted.",
+          "actor": "Municipal Coordinator"
+        }
+      ],
+      "created_at": "2026-10-18T10:00:00.000Z",
+      "updated_at": "2026-10-21T16:15:00.000Z",
+      "is_sample_data": true,
+      "analysis_source": "transparent-demo-fallback",
+      "analysis_model": "Pre-seeded Multi-Hub Civic Dataset",
+      "analysis_disclosure": "Pre-seeded demonstration ticket with real representative civic hazard photography.",
+      "authority_details": {
+        "channelId": "iit-palakkad-lsgd-kerala",
+        "authorityName": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+        "jurisdiction": "Pudussery / Palakkad LSGD & IIT Palakkad Campus Corridor",
+        "officialUrl": "https://ksmart.lsgkerala.gov.in/",
+        "verified": true,
+        "contactMethod": "K-SMART LSGD Citizen Portal / PWD Kerala Toll-Free 1800-425-7771",
+        "whyRecommended": "Matched \"Waste\" within IIT Palakkad (1.1 km from IIT Palakkad center). Kerala LSGD (K-SMART portal) and PWD Roads wing handle civic road maintenance, drainage, and public lighting in the Kanjikode / Walayar / IIT Palakkad corridor."
+      },
+      "contact_provided": false
+    }
+  ],
+  "directory": [
+    {
+      "id": "gcc-bus-route-roads",
+      "name": "Greater Chennai Corporation (GCC) — Bus Route Roads (BRR) & Highways",
+      "jurisdiction": "Greater Chennai Corporation, TN",
+      "categories": [
+        "Road Damage"
+      ],
+      "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+      "verified": true,
+      "contactMethod": "Namma Chennai App / GCC 1913 Civic Helpline",
+      "routingRationale": "GCC Bus Route Roads (BRR) and Zonal Engineering divisions manage pothole patching, bitumen resurfacing, and damaged carriageways across Chennai city wards.",
+      "notes": "Verified official Greater Chennai Corporation grievance channel."
+    },
+    {
+      "id": "gcc-solid-waste-management",
+      "name": "Greater Chennai Corporation (GCC) — Solid Waste Management (SWM)",
+      "jurisdiction": "Greater Chennai Corporation, TN",
+      "categories": [
+        "Waste"
+      ],
+      "officialUrl": "https://chennaicorporation.gov.in/gcc/department/solid-waste-management/",
+      "verified": true,
+      "contactMethod": "Namma Chennai App / 1913 Helpline / Urbaser Sumeet Zonal Desk",
+      "routingRationale": "GCC Solid Waste Management oversees compactor bin clearance, street sweeping, and illegal garbage dumping across all 15 Chennai zones.",
+      "notes": "Verified official GCC Solid Waste Management channel."
+    },
+    {
+      "id": "gcc-electrical-streetlights",
+      "name": "GCC Electrical Department & TANGEDCO — Streetlight Maintenance",
+      "jurisdiction": "Greater Chennai Corporation, TN",
+      "categories": [
+        "Street Lighting"
+      ],
+      "officialUrl": "https://chennaicorporation.gov.in/gcc/department/electrical/",
+      "verified": true,
+      "contactMethod": "GCC 1913 Helpline / TANGEDCO Minnagam (94987 94987)",
+      "routingRationale": "GCC Electrical Department and TANGEDCO maintain LED street luminaires, high-mast lamps, and underground streetlight feeder cables.",
+      "notes": "Pole stencil number helps zonal electrical engineers locate the faulty fixture faster."
+    },
+    {
+      "id": "gcc-footpath-nmt-cell",
+      "name": "GCC Non-Motorized Transport (NMT) & Footpath Accessibility Cell",
+      "jurisdiction": "Greater Chennai Corporation, TN",
+      "categories": [
+        "Accessibility"
+      ],
+      "officialUrl": "https://chennaicorporation.gov.in/gcc/citizen-details/online-services/public-grievance/",
+      "verified": true,
+      "contactMethod": "GCC 1913 Helpline / Namma Chennai App",
+      "routingRationale": "GCC Zonal Enforcement & NMT Cell handle obstructed pedestrian footpaths, damaged wheelchair curb ramps, and broken storm-water drain slabs.",
+      "notes": "Verified official GCC public grievance channel for pedestrian & differently-abled right-of-way."
+    },
+    {
+      "id": "srm-maraimalai-nagar-civic",
+      "name": "Maraimalai Nagar Municipality & NHAI GST Road Corridor (SRM Kattankulathur)",
+      "jurisdiction": "Maraimalai Nagar Municipality & SRM Kattankulathur Campus",
+      "categories": [
+        "Road Damage",
+        "Waste",
+        "Street Lighting",
+        "Accessibility",
+        "Other"
+      ],
+      "officialUrl": "https://www.tnurbantree.tn.gov.in/maraimalainagar/",
+      "verified": true,
+      "contactMethod": "TN Urban e-Seva Grievance Portal / NHAI 1033 Helpline / SRM Estate Office",
+      "routingRationale": "Covers Potheri / Kattankulathur municipal wards (Maraimalai Nagar Municipality), GST Road NH-32 service lanes (NHAI 1033), and SRM campus perimeter infrastructure.",
+      "notes": "Verified regional channel for SRM Kattankulathur / Potheri corridor."
+    },
+    {
+      "id": "vit-vellore-municipal-corp",
+      "name": "Vellore City Municipal Corporation (VCMC) — Katpadi Zone & VIT Corridor",
+      "jurisdiction": "Vellore City Municipal Corporation (VCMC) & VIT Katpadi Corridor",
+      "categories": [
+        "Road Damage",
+        "Waste",
+        "Street Lighting",
+        "Accessibility",
+        "Other"
+      ],
+      "officialUrl": "https://www.tnurbantree.tn.gov.in/vellore/",
+      "verified": true,
+      "contactMethod": "Vellore Corporation Grievance Portal / Toll-Free 1800-425-1600",
+      "routingRationale": "Vellore City Municipal Corporation (Zone 1 Katpadi) manages civic roads, street lighting, sanitation, and drainage along Tiruvalam Road and the VIT Vellore perimeter.",
+      "notes": "Verified official Vellore City Municipal Corporation channel."
+    },
+    {
+      "id": "iit-palakkad-lsgd-kerala",
+      "name": "Local Self Government Department (LSGD Kerala — Palakkad / Pudussery) & NHAI",
+      "jurisdiction": "Pudussery / Palakkad LSGD & IIT Palakkad Campus Corridor",
+      "categories": [
+        "Road Damage",
+        "Waste",
+        "Street Lighting",
+        "Accessibility",
+        "Other"
+      ],
+      "officialUrl": "https://ksmart.lsgkerala.gov.in/",
+      "verified": true,
+      "contactMethod": "K-SMART LSGD Citizen Portal / PWD Kerala Toll-Free 1800-425-7771",
+      "routingRationale": "Kerala LSGD (K-SMART portal) and PWD Roads wing handle civic road maintenance, drainage, and public lighting in the Kanjikode / Walayar / IIT Palakkad corridor.",
+      "notes": "Verified official Kerala LSGD K-SMART citizen grievance portal."
+    }
+  ]
+}
